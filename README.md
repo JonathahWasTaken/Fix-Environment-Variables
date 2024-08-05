@@ -13,6 +13,6 @@ Many users have these issues:
 - Missing/Corrupted "ComSpec" environment variable which should be set to "%SystemRoot%\system32\cmd.exe"
 
 This C++ script fixes those environment variables whilst keeping the custom ones you may have, such as Python, Java and such.
-It also checks for the existance of cmd.exe, and downloads it. The cmd.exe downloaded is from Windows version 11 22631.3257. cmd.exe also contains the same version number, it's been confirmed to work on Windows versions that are older or more recent. Whilst it's not downloading the exact cmd version of the user, I made this in 10 minutes and it does the job ¯\_(ツ)_/¯
+It also checks for the existance of cmd.exe, and downloads it. The cmd.exe downloaded is from Windows version 11 22631.3257. cmd.exe also contains the same version number, it's been confirmed to work on Windows versions that are older or more recent. Whilst it's not downloading the exact cmd version of the user, I made this in 10 minutes and it does the job ¯\\_(ツ)_/¯
 
 The CMD hash and digital signatures are authentic and original so don't yap about it.
